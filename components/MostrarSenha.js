@@ -46,7 +46,7 @@ const MostrarSenha = () => {
         },
         botaosenha:{
             padding:10,
-            backgroundColor:'lightpurple',
+            backgroundColor:'purple',
             marginTop:10,
             borderRadius:30
         },
